@@ -1,0 +1,14 @@
+[
+{
+    "teamCode":1,
+    "teamName":"맨체스터시티",
+    "teamPrice":2000000000,
+    "leagueCode":1
+},
+{
+    "teamCode":1,
+    "teamName":"리즈유나이티드",
+    "teamPrice":9000000,
+    "leagueCode":1
+}
+]
